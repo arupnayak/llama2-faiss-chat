@@ -1,0 +1,5 @@
+llama-2-7b-chat.ggmlv3.q8_0.bin
+.chainlit/*
+faiss-meditations-index/*
+__pycache__/app.cpython-310.pyc
+meditations.pdf
